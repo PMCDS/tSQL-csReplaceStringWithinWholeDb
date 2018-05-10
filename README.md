@@ -1,6 +1,6 @@
-Replace String Within the Whole Database Schema
+#Replace String Within the Whole Database Schema
 
-# tSQL-csReplaceStringWithinWholeDb
+tSQL-csReplaceStringWithinWholeDb
 
 This script looks throughout the entire DB schema and replaces a string value in all tables/columns.
 
